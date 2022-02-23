@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace dotnet_5
+namespace Hi_and_welcome
 {
     class Program
     {
