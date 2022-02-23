@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/c_sharp_examples/dotnet 5/dotnet 5.csproj",
+                "${workspaceFolder}/c_sharp_examples/dotnet 5/Hi and welcome/dotnet 5.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/c_sharp_examples/dotnet 5/dotnet 5.csproj",
+                "${workspaceFolder}/c_sharp_examples/dotnet 5/Hi and welcome/dotnet 5.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/c_sharp_examples/dotnet 5/dotnet 5.csproj"
+                "${workspaceFolder}/c_sharp_examples/dotnet 5/Hi and welcome/dotnet 5.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

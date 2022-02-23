@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/c_sharp_examples/dotnet 5/bin/Debug/net5.0/dotnet 5.dll",
+            "program": "${workspaceFolder}/c_sharp_examples/dotnet 5/Hi and welcome/bin/Debug/net5.0/dotnet 5.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/c_sharp_examples/dotnet 5",
+            "cwd": "${workspaceFolder}/c_sharp_examples/dotnet 5/Hi and welcome",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "integratedTerminal",
             //"console": "externalTerminal",
