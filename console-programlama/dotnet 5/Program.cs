@@ -6,12 +6,12 @@ namespace dotnet_5
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("enter your name ");
+            Console.WriteLine("Hi there!");
+            Console.WriteLine(" Please enter your name ");
             string name = Console.ReadLine();
-            Console.WriteLine("enter your surname ");
+            Console.WriteLine("Please enter your surname ");
             string surename = Console.ReadLine();
-            Console.WriteLine("Hi " + name + " "+ surename);
+            Console.WriteLine("Welcome " + name + " "+ surename +".");
         }
     }
 }

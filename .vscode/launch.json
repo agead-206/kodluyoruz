@@ -14,8 +14,8 @@
             "args": [],
             "cwd": "${workspaceFolder}/console-programlama/dotnet 5",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
-            //"console": "integratedTerminal",
-            "console": "externalTerminal",
+            "console": "integratedTerminal",
+            //"console": "externalTerminal",
             "stopAtEntry": false
         },
         {
